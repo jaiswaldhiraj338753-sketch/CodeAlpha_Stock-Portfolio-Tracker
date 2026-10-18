@@ -137,4 +137,4 @@ No external Python packages are required for the core application.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/shekhar-himanshu-dbg/CodeAlpha_Stock-Portfolio-Tracker.git
+git clone https://github.com/jaiswaldhiraj338753-sketch
